@@ -1,4 +1,4 @@
-<!-- This is heading section -->
+<!-- This is the heading section -->
 <h1 align="center">Hi 👋, I'm Naimur Rahman Sourov</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
@@ -14,8 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://fb.com/rahman.naimur101" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="comrade.naimur" height="30" width="40" />
+    <a href="https://fb.com/rahman.naiimur" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Naimur Rahman Sourov" height="30" width="40" />
+    </a>
+    <a href="https://www.linkedin.com/in/rahman-naimur/" target="_blank">
+        <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="Naimur Rahman Sourov" height="30" width="40" />
     </a>
 </p>
 
