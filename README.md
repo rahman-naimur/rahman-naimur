@@ -49,13 +49,10 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="html5" width="37" height="40"/>
     </a>
     
-    
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" alt="Microsoft Word" height="40" width="40" />
-    </a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" alt="Microsoft Word" height="40" 
+    width="40" />
+            </a>
 
 </p>
 
