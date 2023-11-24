@@ -53,6 +53,9 @@
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="css3" width="40" height="40"/>
     </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank">
+        <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg](https://th.bing.com/th/id/OIP.V-vFwqDF9kOda4SMPClH1AAAAA?pid=ImgDet&w=170&h=170&c=7)" alt="Microsoft Word" height="30" width="40" />
+    </a>
 
 </p>
 
