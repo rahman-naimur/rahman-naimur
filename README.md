@@ -21,6 +21,14 @@
         <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="Naimur Rahman Sourov" height="40" width="40" />
     </a>
 </p>
+<h3 align="left">Languages:-</h3>
+    <ul>
+        <li>Banga: Native</li>
+        <li>English: Basic</li>
+        <li>Hindi: Intermediate</li>
+    </ul>
+
+
 
 <h3 align="left">MY Skills:</h3>
 
