@@ -21,15 +21,7 @@
         <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="Naimur Rahman Sourov" height="40" width="40" />
     </a>
 </p>
-<h3 align="left">Languages:-</h3>
-    <ul>
-        <li>Banga: Native</li>
-        <li>English: Basic</li>
-        <li>Hindi: Intermediate</li>
-    </ul>
-
-
-
+<!--Skill section-->
 <h3 align="left">MY Skills:</h3>
 
 <p align="left">
@@ -63,6 +55,22 @@
             </a>
 
 </p>
+<!--language Section-->
+<h3 align="left">Languages:-</h3>
+    <ul>
+        <li>Banga: Native</li>
+        <li>English: Basic</li>
+        <li>Hindi: Intermediate</li>
+    </ul>
+<!--My Hobbies-->
+<h3 align="left">My Hobby:-</h3>
+    <ul>
+        <li>Programming 👨‍💻</li>
+        <li>Traveling ✈️</li>
+        <li>Bike Riding 🏍️</li>
+        <li>Reading Book 📚</li>
+    </ul>
+
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahman-naimur&show_icons=true&locale=en&layout=compact" alt="rahmannaimur" />
