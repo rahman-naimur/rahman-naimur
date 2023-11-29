@@ -59,8 +59,6 @@
 <h3 align="left">Languages:-</h3>
     <ul>
         <li>🇧🇩Banga: Native</li>
-        <li>🇺🇸English: Basic</li>
-        <li>🇮🇳Hindi: Intermediate</li>
     </ul>
 <!--My Hobbies-->
 <h3 align="left">My Hobby:-</h3>
@@ -77,7 +75,7 @@
 </p>
 
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahman-naimur&show_icons=true&locale=en" alt="rahman-naimur" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsouravhassan&show_icons=true&locale=en" alt="rahman-naimur" />
 </p>
 
 <p>
