@@ -59,6 +59,8 @@
 <h3 align="left">Languages:-</h3>
     <ul>
         <li>🇧🇩Banga: Native</li>
+        <li>🇺🇸English: Basic</li>
+        <li>🇮🇳Hindi: Advance</li>
     </ul>
 <!--My Hobbies-->
 <h3 align="left">My Hobby:-</h3>
