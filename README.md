@@ -75,7 +75,7 @@
 </p>
 
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsouravhassan&show_icons=true&locale=en" alt="rahman-naimur" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahman-naimur&show_icons=true&locale=en" alt="rahman-naimur" />
 </p>
 
 <p>
