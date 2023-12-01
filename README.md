@@ -60,7 +60,7 @@
     <ul>
         <li>🇧🇩Banga: Native</li>
         <li>🇺🇸English: Basic</li>
-        <li>🇮🇳Hindi: Advance</li>
+        <li>🇮🇳Hindi: Intermediate</li>
     </ul>
 <!--My Hobbies-->
 <h3 align="left">My Hobby:-</h3>
