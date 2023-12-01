@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **naimur.personal@gmail.com**
 
-- ⚡ Fun fact **I am an Introvert person but I act like Extrovert😅**
+- ⚡ Fun fact **I am an introverted person but I act like an Extrovert😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
