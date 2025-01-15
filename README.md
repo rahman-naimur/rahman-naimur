@@ -1,6 +1,6 @@
 <!-- This is the heading section -->
 <h1 align="center">Hi 👋, I'm Naimur Rahman Sourov</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MEARN developer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="400" border-radius="5px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -67,7 +67,6 @@
     <ul>
         <li>Programming 👨‍💻</li>
         <li>Traveling ✈️</li>
-        <li>Bike Riding 🏍️</li>
         <li>Reading Book 📚</li>
     </ul>
 
