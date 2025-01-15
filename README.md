@@ -59,7 +59,7 @@
 <h3 align="left">Languages:-</h3>
     <ul>
         <li>🇧🇩Banga: Native</li>
-        <li>🇺🇸English: Basic</li>
+        <li>🇺🇸English: Intermediate</li>
         <li>🇮🇳Hindi: Intermediate</li>
     </ul>
 <!--My Hobbies-->
