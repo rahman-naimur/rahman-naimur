@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I am an introverted person but I act like an Extrovert😅**
 
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/rahman-naimur/" target="_blank" style=" text-decoration: none;">
