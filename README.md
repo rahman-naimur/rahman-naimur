@@ -15,12 +15,9 @@
 
 - ⚡ Fun fact **I am an introverted person but I act like an Extrovert😅**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
+
 <p align="left">
-    <a href="https://fb.com/rahman_naimur" target="_blank" style=" text-decoration: none;">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
-            alt="Naimur Rahman Sourov" height="30" width="40" />
-    </a>
     <a href="https://www.linkedin.com/in/rahman-naimur/" target="_blank" style=" text-decoration: none;">
         <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="Naimur Rahman Sourov"
             height="40" width="40" />
@@ -31,7 +28,7 @@
     </a>
 </p>
 <!--Skill section-->
-<h3 align="left">MY Skills:</h3>
+<h2 align="left">Languages:</h2>
 
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style=" text-decoration: none;">
@@ -42,19 +39,19 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="cplusplus" width="40" height="40" />
     </a>
+    
+</p>
+<h2 align="left"> Softwares:- </h2>
+<p align="left"> 
     <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" style=" text-decoration: none">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg"
             alt="Microsoft Office" height="40" width="40" />
     </a>
+    <a href="https://www.adobe.com/africa/learn/illustrator" target="_blank" style=" text-decoration: none">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"
+            alt="Microsoft Office" height="40" width="40" />
+    </a>
 </p>
-<!--language Section-->
-<h3 align="left">Languages:-</h3>
-<ul>
-    <li>🇧🇩Banga: Native</li>
-    <li>🇺🇸English: B2</li>
-    <li>🇮🇳Hindi: A2</li>
-    <li>Swedish: A1</li>
-</ul>
 <!--My Hobbies-->
 <h3 align="left">My Hobby:-</h3>
 <ul>
