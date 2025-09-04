@@ -41,6 +41,16 @@
     </a>
     
 </p>
+<!--Frameworks section-->
+<h2 align="left">Frameworks:</h2>
+
+<p align="left">
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style=" text-decoration: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="c" width="40"
+            height="40" />
+    </a>
+</p>
+
 <h2 align="left"> Softwares:- </h2>
 <p align="left"> 
     <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" style=" text-decoration: none">
