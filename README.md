@@ -15,7 +15,24 @@
 
 - ⚡ Fun fact **I am an introverted person but I act like an Extrovert😅**
 
-<h3 align="left">Connect with me:</h3>
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<h2>About Me</h2>
+<p> Enthusiastic and adaptable professional with 1 year+ of experience as a 
+Customer Service Representative. Skilled in handling client communications, 
+solving problems efficiently, and managing office operations.
+ Currently pursuing B.Sc. Hons) in Physics while also building expertise in web 
+development HTML, CSS, JavaScript). Strong technical knowledge in MS Office 
+and system management. Highly motivated, fast learner, and passionate about 
+technology and customer satisfaction</p>
+
+<h2 align="left">Connect with me:</h2>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/rahman-naimur/" target="_blank" style=" text-decoration: none;">
