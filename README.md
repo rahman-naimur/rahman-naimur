@@ -78,6 +78,10 @@ technology and customer satisfaction</p>
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"
             alt="Microsoft Office" height="40" width="40" />
     </a>
+    <a href="https://code.visualstudio.com/docs/introvideos/basics" target="_blank" style=" text-decoration: none">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
+            alt="Microsoft Office" height="40" width="40" />
+    </a>
 </p>
 <!--My Hobbies-->
 <h3 align="left">My Hobby:-</h3>
