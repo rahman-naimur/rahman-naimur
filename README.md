@@ -97,13 +97,11 @@ technology and customer satisfaction</p>
         src="https://github-readme-stats.vercel.app/api/top-langs?username=rahman-naimur&show_icons=true&locale=en&layout=compact"
         alt="rahman-naimur" />
 </p>
-
 <p>&nbsp;
     <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=rahman-naimur&show_icons=true&locale=en"
         alt="rahman-naimur" />
 </p>
-
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahman-naimur&"
         alt="rahman-naimur" />
